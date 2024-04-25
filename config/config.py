@@ -1,6 +1,6 @@
 import os
 
-
+المطور ابو صكر
 API_ID: int = int(os.getenv("API_ID")) or int()
 
 API_HASH: str = os.getenv("API_HASH") or str("")
