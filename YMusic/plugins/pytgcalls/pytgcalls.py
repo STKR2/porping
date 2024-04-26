@@ -1,6 +1,6 @@
 from pytgcalls.types import Update, MediaStream
-from pytgcalls.types.input_stream import AudioPiped
-from pytgcalls.types.input_stream.quality import HighQualityAudio
+# from pytgcalls.types.input_stream import AudioPiped
+# from pytgcalls.types.input_stream.quality import HighQualityAudio
 
 from YMusic import call, app
 from YMusic.utils.queue import QUEUE, get_queue, clear_queue, pop_an_item
