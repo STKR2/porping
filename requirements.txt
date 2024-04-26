@@ -1,5 +1,5 @@
 pyrofork
-py-tgcalls==2.0.1
+py-tgcalls
 git+https://github.com/yt-dlp/yt-dlp.git
 tgcrypto
 httpx
